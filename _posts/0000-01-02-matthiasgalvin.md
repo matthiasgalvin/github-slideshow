@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-I'm Matthias Galvin, learning software engineering
+Hello, I'm Matthias Galvin; I'm learning software engineering
 Use the left arrow to go back!
